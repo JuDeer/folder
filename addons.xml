@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.video.KhmerDubbed" version="1.2.2" name="KhmerDubbed" provider-name="Dodgex, Goupon">
+<addon id="plugin.video.KhmerDub" version="1.0.1" name="KhmerDubbed" provider-name="Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.simplejson" />
@@ -20,19 +20,19 @@
     <description>Use at your own risk</description>
     <assets>
       <icon>icon.png</icon>
-	  <fanart>fanart.jpg</fanart>
+      <fanart>fanart.jpg</fanart>
     </assets>
     <platform>all</platform>
   </extension>
 </addon>	
 
 
-<addon id="repository.kon" name="Kon Repo" version="3.4" provider-name="Goupon">
-	<extension point="xbmc.addon.repository" name="Kon Repo">
+<addon id="repository.kons" name="Kons Repo" version="1.1" provider-name="Goupon">
+	<extension point="xbmc.addon.repository" name="Kons Repo">
 	  <dir>	
-		<info compressed="false">https://raw.githubusercontent.com/konrepo/file/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/konrepo/file/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/konrepo/file/master/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/JuDeer/folder/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/JuDeer/folder/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/JuDeer/folder/master/</datadir>
 	  </dir>		
 	</extension>
 	<extension point="xbmc.addon.metadata">
@@ -44,12 +44,10 @@
             <fanart>fanart.jpg</fanart>
         </assets>		
 	</extension>
-</addon>
+</addon>	
 	
 	
-	
-
-<addon id="plugin.program.KonWizard" name="Kon Wizard" version="2.7" provider-name="Goupon">
+<addon id="plugin.program.KonsWizard" name="Kons Wizard" version="1.1" provider-name="Goupon">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" optional="true" />
@@ -59,8 +57,8 @@
 	</extension>
 	<extension point="xbmc.service" library="service.py" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Kon Matrix Wizard</summary>
-		<description lang="en_GB">Kodi 19 Wizard</description>
+		<summary lang="en_GB">Kons Wizard</summary>
+		<description lang="en_GB">Kodi Wizard</description>
 		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
 		<language>en</language>
 		<platform>all</platform>
