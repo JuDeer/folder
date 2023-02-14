@@ -1,22 +1,13 @@
 <builds>
 	
   <build>
-	<name>[COLORred][B]Raspberry Pi 4[/COLOR][/B]</name>
+	<name>[COLORred][B]Merl Kon[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.x Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/s/pp1nrkq19uthexf/Khmer20_RPi4.zip?dl=1</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/RPi4BG.jpg</icon>
-	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/RPi4BG.jpg</fanart>
+	<url>https://www.dropbox.com/s/76lt19fxqz03ypb/RPiNoAdult.zip?dl=1</url>
+	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
+	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
 	<description>Dubbed in Khmers, up to 8K</description>
   </build>	
-    
-  <build>
-	<name>[COLORcyan][B]Raspberry Pi 3[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.x Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/s/ai51yp9jcwtpdvk/Khmer20_RPi3.zip?dl=1</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/RPi3.jpg</icon>
-	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/RPi3.jpg</fanart>
-	<description>Dubbed in Khmers, up to 1080p</description>
-  </build>
 	
   <build>
 	<name>[COLORblue][B]Include Adult[/COLOR][/B]</name>
