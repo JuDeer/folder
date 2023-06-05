@@ -1,0 +1,12 @@
+<builds>
+
+  <build>
+	<name>[COLORblue][B]Movie[/COLOR][/B]</name>
+	<version>[COLORred]Kodi 20.1 Nexus[/COLOR]</version>
+	<url>https://www.dropbox.com/s/zwnlr00v7v9zmcf/KhmerA20.1.zip?dl=1</url>
+	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
+	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/BACKS.JPG</fanart>
+	<description>Movies and TV shows 1080p</description>
+  </build>	
+
+</builds>
