@@ -3,7 +3,7 @@
   <build>
 	<name>[COLORred][B]Merl Kon[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.1 Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/h1cn5odvvpoteyz1eh99d/JuDeerKhmer20.1.zip?dl=1</url>
+	<url>https://archive.org/download/judee-khmer201/JuDeerKhmer20.1.zip</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
 	<description>Dubbed in Khmers, up to 8K</description>
@@ -12,7 +12,7 @@
   <build>
 	<name>[COLORblue][B]Include Adult[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.1 Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/dvw1ji595li2h3tex1pgu/JuDeerKhmerA20.1.zip?dl=1</url>
+	<url>https://archive.org/download/judee-khmer201/JuDeerKhmer20.1.zip</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</fanart>
 	<description>Dubbed in Khmers, up to 8K, and Porn</description>
