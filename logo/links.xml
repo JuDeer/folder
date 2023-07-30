@@ -3,7 +3,7 @@
   <build>
 	<name>[COLORred][B]TEST[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.1 Nexus[/COLOR]</version>
-	<url>https://drive.google.com/uc?id=1KRzOUcvukcm8Kt-GEXlMI-xAumYSeyMQ&export=download</url>
+	<url>https://drive.google.com/uc?id=1KRzOUcvukcm8Kt-GEXlMI-xAumYSeyMQ&amp;export=download</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
 	<description>Dubbed in Khmers, up to 8K</description>
