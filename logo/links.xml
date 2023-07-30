@@ -1,18 +1,9 @@
-<builds>
-
-  <build>
-	<name>[COLORred][B]TEST[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.1 Nexus[/COLOR]</version>
-	<url>https://drive.google.com/uc?id=1KRzOUcvukcm8Kt-GEXlMI-xAumYSeyMQ&amp;export=download</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
-	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>Dubbed in Khmers, up to 8K</description>
-  </build>		
+<builds>	
 	
   <build>
 	<name>[COLORred][B]Merl Kon[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.1 Nexus[/COLOR]</version>
-	<url>https://archive.org/download/judee-khmer201/JuDeerKhmer20.1.zip</url>
+	<url>https://www.dropbox.com/scl/fi/dvw1ji595li2h3tex1pgu/JuDeerKhmerA20.1.zip?rlkey=yjxl4x2x458f6r3vwvrzfbvyf&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
 	<description>Dubbed in Khmers, up to 8K</description>
