@@ -77,7 +77,6 @@
 	</extension>
 </addon>
 
-
 	
 <addon id="repository.jurialmunkey" name="jurialmunkey Alpha Repository" version="3.3" provider-name="jurialmunkey">
     <extension point="xbmc.addon.repository" name="jurialmunkey Alpha Repository">
