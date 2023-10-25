@@ -10,6 +10,15 @@
   </build>	
 	
   <build>
+	<name>[COLORred][B]AppleTV Only[/COLOR][/B]</name>
+	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
+	<url>COMMING SOON</url>
+	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
+	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
+	<description>Dubbed in Khmers, up to 8K</description>
+  </build>	
+	
+  <build>
 	<name>[COLORblue][B]Include Adult[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.1 Nexus[/COLOR]</version>
 	<url>https://www.dropbox.com/scl/fi/vjwxj1o2er3nr0jt3b3a1/JuDeerKhmerA20.1.zip?rlkey=7q3dirj5jz0tsetccqayvdr02&amp;dl=1</url>
