@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.video.JuDeerKhmerDubbed" version="1.2.8" name="JuDeerKhmerDubbed" provider-name="Dodgex, Goupon">
+<addon id="plugin.video.KDubbed" version="1.2.8" name="Khmer Dubbed" provider-name="Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.simplejson" />
@@ -46,7 +46,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.program.JuDeerWizard" name="JuDeer Wizard" version="2.7" provider-name="Goupon">
+<addon id="plugin.program.KWizard" name="JuDeer Wizard" version="2.7" provider-name="Goupon">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" optional="true" />
