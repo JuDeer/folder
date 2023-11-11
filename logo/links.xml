@@ -1,14 +1,23 @@
 <builds>	
 	
   <build>
+	<name>[COLORblue][B]FireTV[/COLOR][/B]</name>
+	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
+	<url>https://www.dropbox.com/scl/fi/zx5b88dxcjc99yni5a1sf/FireTV.zip?rlkey=nprwvxhwrd8sejevyfrj252j4&amp;dl=1</url>
+	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ftv.png</icon>
+	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
+	<description>Dubbed in Khmers, up to 1080p, and Porn</description>
+  </build>	
+
+  <build>
 	<name>[COLORred][B]Merl Kon[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.1 Nexus[/COLOR]</version>
 	<url>https://www.dropbox.com/scl/fi/q4k4s4fc4sifxtht8w28j/JuDeerKhmer20.1.zip?rlkey=p21y6yrd5qiu7cw9vyjmdjjqt&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
 	<description>Dubbed in Khmers, up to 8K</description>
-  </build>	
-	
+  </build>		
+
   <build>
 	<name>[COLORgreen][B]AppleTV[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
@@ -16,15 +25,6 @@
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
 	<description>Dubbed in Khmers, up to 8K</description>
-  </build>	
-	
-  <build>
-	<name>[COLORblue][B]FireTV[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/zx5b88dxcjc99yni5a1sf/FireTV.zip?rlkey=nprwvxhwrd8sejevyfrj252j4&amp;dl=1</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
-	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</fanart>
-	<description>Dubbed in Khmers, up to 1080p, and Porn</description>
-  </build>	
+  </build>		
 
 </builds>
