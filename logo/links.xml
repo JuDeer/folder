@@ -19,12 +19,12 @@
   </build>	
 	
   <build>
-	<name>[COLORblue][B]Include Adult[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.1 Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/vjwxj1o2er3nr0jt3b3a1/JuDeerKhmerA20.1.zip?rlkey=7q3dirj5jz0tsetccqayvdr02&amp;dl=1</url>
+	<name>[COLORblue][B]FireTV[/COLOR][/B]</name>
+	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
+	<url>https://www.dropbox.com/scl/fi/zx5b88dxcjc99yni5a1sf/FireTV.zip?rlkey=nprwvxhwrd8sejevyfrj252j4&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</fanart>
-	<description>Dubbed in Khmers, up to 8K, and Porn</description>
+	<description>Dubbed in Khmers, up to 1080p, and Porn</description>
   </build>	
 
 </builds>
