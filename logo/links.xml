@@ -11,11 +11,11 @@
 
   <build>
 	<name>[COLORred][B]Merl Kon[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.1 Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/q4k4s4fc4sifxtht8w28j/JuDeerKhmer20.1.zip?rlkey=p21y6yrd5qiu7cw9vyjmdjjqt&amp;dl=1</url>
+	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
+	<url>https://www.dropbox.com/scl/fi/dpujlv7xmybgxn143doii/RPi3.zip?rlkey=uxs54jxe0orsa6o3cmjinc6dz&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>Dubbed in Khmers, up to 8K</description>
+	<description>Dubbed in Khmers, up to 1080p</description>
   </build>		
 
   <build>
