@@ -1,13 +1,4 @@
 <builds>	
-	
-  <build>
-	<name>[COLORblue][B]FireTV[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/zx5b88dxcjc99yni5a1sf/FireTV.zip?rlkey=nprwvxhwrd8sejevyfrj252j4&amp;dl=1</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ftv.png</icon>
-	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>Dubbed in Khmers, up to 1080p, and Porn</description>
-  </build>	
 
   <build>
 	<name>[COLORred][B]Merl Kon[/COLOR][/B]</name>
@@ -19,7 +10,7 @@
   </build>	
 
   <build>
-	<name>[COLORblue][B]MoMo[/COLOR][/B]</name>
+	<name>[COLORblue][B]American Movies[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
 	<url>https://www.dropbox.com/scl/fi/00wncq3ant8fufl41saq0/MoMo.zip?rlkey=ybdlscf2gbdvfpnas8s0vkduy&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
