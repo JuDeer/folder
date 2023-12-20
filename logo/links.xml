@@ -10,7 +10,7 @@
   </build>	
 
   <build>
-	<name>[COLORblue][B]American Movies[/COLOR][/B]</name>
+	<name>[COLORblue][B]American[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
 	<url>https://www.dropbox.com/scl/fi/00wncq3ant8fufl41saq0/MoMo.zip?rlkey=ybdlscf2gbdvfpnas8s0vkduy&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
@@ -19,7 +19,7 @@
   </build>	
 
   <build>
-	<name>[COLORgreen][B]AppleTV[/COLOR][/B]</name>
+	<name>[COLORgreen][B]AppleTV 4K[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
 	<url>https://www.dropbox.com/scl/fi/xe20psf21gll48rz6efjx/AppleTv.zip?rlkey=z9zwy39xdt1yqoz0oxz2428rz&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
