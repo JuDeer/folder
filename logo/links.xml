@@ -27,4 +27,13 @@
 	<description>Dubbed in Khmers, up to 8K</description>
   </build>		
 
+  <build>
+	<name>[COLORpink][B]MacOS[/COLOR][/B]</name>
+	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
+	<url>https://www.dropbox.com/scl/fi/trnahricft2n4egpmri5x/Adults.zip?rlkey=vyhacdtiec09ddy9dvivq6rot&amp;dl=1</url>
+	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
+	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
+	<description>American, Khmers, and Other</description>
+  </build>		
+
 </builds>
