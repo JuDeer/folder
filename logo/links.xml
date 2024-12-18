@@ -1,39 +1,12 @@
 <builds>	
 
   <build>
-	<name>[COLORred][B]Merl Kon[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/dpujlv7xmybgxn143doii/RPi3.zip?rlkey=uxs54jxe0orsa6o3cmjinc6dz&amp;dl=1</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/RPi3.png</icon>
+	<name>[COLORred][B]All Devices[/COLOR][/B]</name>
+	<version>[COLORred]Kodi 21.1 Omega[/COLOR]</version>
+	<url>https://www.dropbox.com/scl/fi/sv3m17rwfgh4odqm21skd/AllBoxes.zip?rlkey=3kmu6r87z6wyj0rrm1sahtdic&st=hfjuzp67&amp;dl=1</url>
+	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>Dubbed in Khmers, up to 1080p</description>
+	<description>All Videos</description>
   </build>	
-
-  <build>
-	<name>[COLORblue][B]American[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/00wncq3ant8fufl41saq0/MoMo.zip?rlkey=ybdlscf2gbdvfpnas8s0vkduy&amp;dl=1</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
-	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>Just American Shows 1080p</description>
-  </build>	
-
-  <build>
-	<name>[COLORgreen][B]AppleTV 4K[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/xe20psf21gll48rz6efjx/AppleTv.zip?rlkey=z9zwy39xdt1yqoz0oxz2428rz&amp;dl=1</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
-	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>Dubbed in Khmers, up to 8K</description>
-  </build>		
-
-  <build>
-	<name>[COLORpink][B]MacOS[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.2 Nexus[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/trnahricft2n4egpmri5x/Adults.zip?rlkey=vyhacdtiec09ddy9dvivq6rot&amp;dl=1</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
-	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>American, Khmers, and Other</description>
-  </build>		
 
 </builds>
