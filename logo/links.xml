@@ -1,7 +1,7 @@
 <builds>	
 
   <build>
-	<name>[COLORred][B]All Devices[/COLOR][/B]</name>
+	<name>[COLORgreen][B]All Devices[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 21.1 Omega[/COLOR]</version>
 	<url>https://www.dropbox.com/scl/fi/sv3m17rwfgh4odqm21skd/AllBoxes.zip?rlkey=3kmu6r87z6wyj0rrm1sahtdic&amp;st=hfjuzp67&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
@@ -16,6 +16,15 @@
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
 	<description>Kids Only</description>
+  </build>	  
+  
+  <build>
+	<name>[COLORyellow][B]AppleTV[/COLOR][/B]</name>
+	<version>[COLORred]Kodi 21.1 Omega[/COLOR]</version>
+	<url>https://www.dropbox.com/scl/fi/xe20psf21gll48rz6efjx/AppleTv.zip?rlkey=z9zwy39xdt1yqoz0oxz2428rz&amp;st=piho15zm&amp;dl=1</url>
+	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
+	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
+	<description>AppleTV</description>
   </build>	  
 
 </builds>
