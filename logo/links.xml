@@ -1,13 +1,4 @@
 <builds>
-	
-  <build>
-	<name>[COLORcyan][B]Dave[/COLOR][/B]</name>
-	<version>[COLORblue]Kodi 21.1 Omega[/COLOR]</version>
-	<url>https://www.dropbox.com/scl/fi/tiquxi5gpcg11of6coiv6/Dave.zip?rlkey=1xb97qwvtuxwow9mmj1jtxwg8&amp;st=8t2fc7rh&amp;dl=1</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
-	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>Dubbed in Khmers, up to 1080p</description>
-  </build>	
 
   <build>
 	<name>[COLORgreen][B]Neak Ath[/COLOR][/B]</name>
