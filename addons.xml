@@ -25,20 +25,28 @@
   </extension>
 </addon>
 
-
-<addon id="repository.JuDeer" name="JuDeer Repo" version="1.2" provider-name="Goupon">
+<addon id="repository.JuDeer" name="JuDeer Repo" version="1.3" provider-name="Goupon">
 	<extension point="xbmc.addon.repository" name="JuDeer Repo">
 	  <dir>	
 		<info compressed="false">https://raw.githubusercontent.com/JuDeer/folder/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/JuDeer/folder/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/JuDeer/folder/master/</datadir>
 	  </dir>	
+
 	  <dir>
 		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-	  </dir>	  
+	  </dir>	
+
+	  <dir minversion="19.0.0">
+		<info compressed="false">https://download.osmc.tv/dev/anxdpanic/kodi/youtube/unofficial/addons.xml</info>
+		<checksum>https://download.osmc.tv/dev/anxdpanic/kodi/youtube/unofficial/addons.xml.md5</checksum>
+		<datadir zip="true">https://download.osmc.tv/dev/anxdpanic/kodi/youtube/unofficial/zips</datadir>
+		<hashes>false</hashes>           
+	  </dir> 
 	</extension>
+
 	<extension point="xbmc.addon.metadata">
 		<summary></summary>
 		<description></description>
@@ -192,27 +200,6 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
         </assets>
     </extension>
 </addon>
-
-<addon id="repository.yt.unofficial" name="YouTube (Unofficial)" version="2.0.7" provider-name="anxdpanic">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-    </requires>
-	<extension point="xbmc.addon.repository" name="YouTube (Unofficial)">
-        <dir minversion="19.0.0">
-            <info compressed="false">https://download.osmc.tv/dev/anxdpanic/kodi/youtube/unofficial/addons.xml</info>
-            <checksum>https://download.osmc.tv/dev/anxdpanic/kodi/youtube/unofficial/addons.xml.md5</checksum>
-            <datadir zip="true">https://download.osmc.tv/dev/anxdpanic/kodi/youtube/unofficial/zips</datadir>
-            <hashes>false</hashes>           
-        </dir>        
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Install the unofficial versions of the YouTube add-on.</summary>
-		<description>Install unofficial versions of the YouTube add-on.</description>
-		<disclaimer>This add-on is not supported or endorsed by Google/YouTube.</disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-<!-- unofficial -->
 	
 	
 </addons>
