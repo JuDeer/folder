@@ -317,7 +317,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 
 <addon id="script.module.yt-dlp"
        name="yt-dlp"
-       version="2025.08.27-1"
+       version="2025.08.27-2"
        provider-name="yt-dlp contributors">
 
     <requires>
