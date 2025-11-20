@@ -59,7 +59,7 @@
 
 <addon id="plugin.program.KWizard"
        name="JuDeer Wizard"
-       version="2.9"
+       version="3.0"
        provider-name="Goupon">
 
     <!-- Only required dependency -->
