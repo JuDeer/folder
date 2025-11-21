@@ -1,7 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Foundation -->
 <fonts>
-    <fontset id="Default" unicode="true">
+<fontset id="Default" unicode="true">
+
+        <defaultfont>NotoSansKhmer-Regular.ttf</defaultfont>
+        <defaultbold>NotoSansKhmer-Regular.ttf</defaultbold>
+
+        <!-- Hybrid English + Khmer using NotoSansKhmer -->
+
+        <font>
+            <name>font_medium</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>38</size>
+        </font>
+
+        <font>
+            <name>font_medium_bold</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>38</size>
+        </font>
+
+        <font>
+            <name>font_small</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>30</size>
+        </font>
+
+        <font>
+            <name>font_small_bold</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>30</size>
+        </font>
+
+        <font>
+            <name>font_tiny</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>26</size>
+        </font>
+
+        <font>
+            <name>font_tiny_bold</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>26</size>
+        </font>
+
+        <!-- Titles -->
+
+        <font>
+            <name>font_title_large</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>64</size>
+        </font>
+
+        <font>
+            <name>font_title_medium</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>52</size>
+        </font>
+
+        <font>
+            <name>font_title</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>48</size>
+        </font>
+
+        <font>
+            <name>font_title_small</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>40</size>
+        </font>
+		
+        <font>
+            <name>font_title_mini</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>30</size>
+        </font>
+
+        <!-- REQUIRED for HOME MENU -->
+        <font>
+            <name>font13</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>30</size>
+        </font>		
+
+        <!-- Home / Widget Fonts -->
+
+        <font>
+            <name>font_widget</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>32</size>
+        </font>
+
+        <font>
+            <name>font_widget_small</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>28</size>
+        </font>
+
+        <font>
+            <name>font_widget_sublabel</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>24</size>
+        </font>
+
+        <font>
+            <name>font_home</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>42</size>
+        </font>
+
+        <font>
+            <name>font_home_label</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>32</size>
+        </font>
+
+        <font>
+            <name>font_home_sublabel</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>26</size>
+        </font>
+
+        <font>
+            <name>font_category</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>34</size>
+        </font>
+
+        <font>
+            <name>heading</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>48</size>
+        </font>
+
+        <font>
+            <name>subheading</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>38</size>
+        </font>
+
+        <font>
+            <name>label</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>30</size>
+        </font>
+
+        <font>
+            <name>label_alt</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>28</size>
+        </font>
+
+        <!-- Main Menu Fonts -->
+
+        <font>
+            <name>font_mainmenu</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>42</size>
+        </font>
+
+        <font>
+            <name>font_mainmenu_focus</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>48</size>
+        </font>
+
+        <font>
+            <name>font_mainmenu_sub</name>
+            <filename>NotoSansKhmer-Regular.ttf</filename>
+            <size>34</size>
+        </font>
+
+    </fontset>
+
+    <fontset id="Default_Base" unicode="true">
 
         <include condition="Skin.HasSetting(FauneFonts)">Defaults_FauneFonts</include>
         <include condition="!Skin.HasSetting(FauneFonts)">Defaults_RobotoFonts</include>
@@ -1300,177 +1472,7 @@
 
     </fontset>
 
-    <fontset id="Hybrid" unicode="true">
-
-        <defaultfont>NotoSansKhmer-Regular.ttf</defaultfont>
-        <defaultbold>NotoSansKhmer-Regular.ttf</defaultbold>
-
-        <!-- Hybrid English + Khmer using NotoSansKhmer -->
-
-        <font>
-            <name>font_medium</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>38</size>
-        </font>
-
-        <font>
-            <name>font_medium_bold</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>38</size>
-        </font>
-
-        <font>
-            <name>font_small</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>30</size>
-        </font>
-
-        <font>
-            <name>font_small_bold</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>30</size>
-        </font>
-
-        <font>
-            <name>font_tiny</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>26</size>
-        </font>
-
-        <font>
-            <name>font_tiny_bold</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>26</size>
-        </font>
-
-        <!-- Titles -->
-
-        <font>
-            <name>font_title_large</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>64</size>
-        </font>
-
-        <font>
-            <name>font_title_medium</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>52</size>
-        </font>
-
-        <font>
-            <name>font_title</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>48</size>
-        </font>
-
-        <font>
-            <name>font_title_small</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>40</size>
-        </font>
-		
-        <font>
-            <name>font_title_mini</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>30</size>
-        </font>
-
-        <!-- REQUIRED for HOME MENU -->
-        <font>
-            <name>font13</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>30</size>
-        </font>		
-
-        <!-- Home / Widget Fonts -->
-
-        <font>
-            <name>font_widget</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>32</size>
-        </font>
-
-        <font>
-            <name>font_widget_small</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>28</size>
-        </font>
-
-        <font>
-            <name>font_widget_sublabel</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>24</size>
-        </font>
-
-        <font>
-            <name>font_home</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>42</size>
-        </font>
-
-        <font>
-            <name>font_home_label</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>32</size>
-        </font>
-
-        <font>
-            <name>font_home_sublabel</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>26</size>
-        </font>
-
-        <font>
-            <name>font_category</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>34</size>
-        </font>
-
-        <font>
-            <name>heading</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>48</size>
-        </font>
-
-        <font>
-            <name>subheading</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>38</size>
-        </font>
-
-        <font>
-            <name>label</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>30</size>
-        </font>
-
-        <font>
-            <name>label_alt</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>28</size>
-        </font>
-
-        <!-- Main Menu Fonts -->
-
-        <font>
-            <name>font_mainmenu</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>42</size>
-        </font>
-
-        <font>
-            <name>font_mainmenu_focus</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>48</size>
-        </font>
-
-        <font>
-            <name>font_mainmenu_sub</name>
-            <filename>NotoSansKhmer-Regular.ttf</filename>
-            <size>34</size>
-        </font>
-
-    </fontset>
+    
 
 
 </fonts>
