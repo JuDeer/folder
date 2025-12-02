@@ -2,7 +2,7 @@
 
   <build>
 	<name>អ្នកអាតនិងមិត្តរបស់គាត់</name>
-	<version>[COLORred]Kodi 21.2 Omega[/COLOR]</version>
+	<version>Kodi 21.2 Omega</version>
 	<url>https://www.dropbox.com/scl/fi/sv3m17rwfgh4odqm21skd/AllBoxes.zip?rlkey=3kmu6r87z6wyj0rrm1sahtdic&amp;st=hfjuzp67&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
@@ -10,8 +10,8 @@
   </build>	
   
   <build>
-	<name>[COLORblue][B]Kids[/COLOR][/B]</name>
-	<version>[COLORpink]Kodi 21.2 Omega[/COLOR]</version>
+	<name>Kids</name>
+	<version>Kodi 21.2 Omega</version>
 	<url>https://www.dropbox.com/scl/fi/j82sfw5zxfgvpdfajsh2m/Kid.zip?rlkey=ncks1dr278ssm64grllgcanor&amp;st=x5mzhdda&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
@@ -19,8 +19,8 @@
   </build>	  
   
   <build>
-	<name>[COLORyellow][B]AppleTV[/COLOR][/B]</name>
-	<version>[COLORyellow]Kodi 21.2 Omega[/COLOR]</version>
+	<name>AppleTV</name>
+	<version>Kodi 21.2 Omega</version>
 	<url>https://www.dropbox.com/scl/fi/xe20psf21gll48rz6efjx/AppleTv.zip?rlkey=z9zwy39xdt1yqoz0oxz2428rz&amp;st=g927rw32&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
