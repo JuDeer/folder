@@ -1,13 +1,14 @@
 <builds>
 	
 <build>
-    <name>[CENTER]សូមជ្រើសរើសវីដេអូរបស់អ្នកខាងក្រោម\nSelect your video below[/CENTER]</name>
-    <version></version>
+    <name>[CENTER][COLOR yellow][B]សូមជ្រើសរើសវីដេអូរបស់អ្នកខាងក្រោម[/B][/COLOR][/CENTER]</name>
     <url>header</url>
-    <icon></icon>
-    <fanart></fanart>
-    <description></description>
 </build>
+<build>
+    <name>[CENTER][COLOR yellow]Select your video below[/COLOR][/CENTER]</name>
+    <url>header</url>
+</build>
+
 
   <build>
 	<name>អ្នកអាតនិងមិត្តគាត់ Neak Ath</name>
