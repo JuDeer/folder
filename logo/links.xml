@@ -1,15 +1,10 @@
 <builds>
 	
   <build>
-	<name>[CENTER][COLOR yellow][B]សូមជ្រើសរើសវីដេអូរបស់អ្នកខាងក្រោម[/B][/COLOR][/CENTER]</name>
+	<name>[CENTER][B]សូមជ្រើសរើសវីដេអូរបស់អ្នកខាងក្រោម\nSelect your video below[/B][/CENTER]</name>
 	<url>header</url>
   </build>
-  <build>
-	<name>[CENTER][COLOR yellow]Select your video below[/COLOR][/CENTER]</name>
-	<url>header</url>
-  </build>
-
-
+ 
   <build>
 	<name>អ្នកអាតនិងមិត្តគាត់ Neak Ath</name>
 	<version>Kodi 21.2 Omega</version>
