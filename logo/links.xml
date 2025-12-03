@@ -1,13 +1,13 @@
 <builds>
 	
   <build>
-	<name>[CENTER][B]សូមជ្រើសរើសវីដេអូរបស់អ្នកខាងក្រោម\nSelect your video below[/B][/CENTER]</name>
+	<name>[B]សូមជ្រើសរើសវីដេអូរបស់អ្នកខាងក្រោមSelect your video below[/B]</name>
+	<version></version>	  
 	<url>header</url>
   </build>
  
   <build>
 	<name>អ្នកអាតនិងមិត្តគាត់ Neak Ath</name>
-	<version>Kodi 21.2 Omega</version>
 	<url>https://www.dropbox.com/scl/fi/sv3m17rwfgh4odqm21skd/AllBoxes.zip?rlkey=3kmu6r87z6wyj0rrm1sahtdic&amp;st=hfjuzp67&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
@@ -16,7 +16,6 @@
   
   <build>
 	<name>Kids</name>
-	<version>Kodi 21.2 Omega</version>
 	<url>https://www.dropbox.com/scl/fi/j82sfw5zxfgvpdfajsh2m/Kid.zip?rlkey=ncks1dr278ssm64grllgcanor&amp;st=x5mzhdda&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
@@ -25,7 +24,6 @@
   
   <build>
 	<name>AppleTV</name>
-	<version>Kodi 21.2 Omega</version>
 	<url>https://www.dropbox.com/scl/fi/xe20psf21gll48rz6efjx/AppleTv.zip?rlkey=z9zwy39xdt1yqoz0oxz2428rz&amp;st=g927rw32&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
