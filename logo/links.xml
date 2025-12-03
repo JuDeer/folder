@@ -1,7 +1,7 @@
 <builds>
 	
   <build>
-	<name>[COLOR red]សូមជ្រើសរើសវីដេអូរបស់អ្នកខាងក្រោម[/COLOR] Select video below</name>
+	<name>[COLOR red][B]សូមជ្រើសរើសវីដេអូរបស់អ្នកខាងក្រោម Select video below[/B][/COLOR]</name>
 	<url>header</url>
   </build>
  
