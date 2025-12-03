@@ -1,7 +1,7 @@
 <builds>
 	
 <build>
-    <name>[COLOR yellow][B]Select your build[/B][/COLOR]</name>
+    <name>[CENTER]សូមជ្រើសរើសវីដេអូរបស់អ្នកខាងក្រោម\nSelect your video below[/CENTER]</name>
     <version></version>
     <url>header</url>
     <icon></icon>
