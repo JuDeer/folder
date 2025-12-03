@@ -1,5 +1,13 @@
-<menu>Select your build</menu>
 <builds>
+	
+<build>
+    <name>[COLOR yellow][B]Select your build[/B][/COLOR]</name>
+    <version></version>
+    <url>header</url>
+    <icon></icon>
+    <fanart></fanart>
+    <description></description>
+</build>
 
   <build>
 	<name>អ្នកអាតនិងមិត្តគាត់ Neak Ath</name>
