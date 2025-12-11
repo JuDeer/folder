@@ -25,12 +25,21 @@
   </build>	  
   
   <build>
-	<name>AppleTV</name>
+	<name>ATV-LR</name>
 	<version>[COLOR blue]Kodi 21.2 Omega[/COLOR]</version>	  
-	<url>https://www.dropbox.com/scl/fi/xe20psf21gll48rz6efjx/AppleTv.zip?rlkey=z9zwy39xdt1yqoz0oxz2428rz&amp;st=g927rw32&amp;dl=1</url>
+	<url>https://www.dropbox.com/scl/fi/3uqtz1gbe4a4xevd7rx8q/ATV-LR.zip?rlkey=01wx6ktgfxczqlgwgcqjn7ds0&amp;st=96xkqs9x&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
 	<description>AppleTV</description>
   </build>	  
-
+  
+  <build>
+	<name>ATV-DR</name>
+	<version>[COLOR blue]Kodi 21.2 Omega[/COLOR]</version>	  
+	<url>https://www.dropbox.com/scl/fi/fpd2qb0nioig8qjp5buru/ATV-DR.zip?rlkey=1j89grjikjg84pcfx96c2xb7t&amp;st=7eiebna4&amp;dl=1</url>
+	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
+	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
+	<description>AppleTV</description>
+  </build>	 
+	
 </builds>
