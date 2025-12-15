@@ -14,7 +14,16 @@
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
 	<description>វីដេអូរបស់អ្នកអាតនិងមិត្តគាត់</description>
   </build>	
-   
+
+  <build>
+	<name>Dave</name>
+	<version>[COLOR blue]Kodi 21.3 Omega[/COLOR]</version>
+	<url>https://www.dropbox.com/scl/fi/tiquxi5gpcg11of6coiv6/Dave.zip?rlkey=1xb97qwvtuxwow9mmj1jtxwg8&amp;st=hkopvm1c&amp;dl=1</url>
+	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
+	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
+	<description>វីដេអូរបស់អ្នកអាតនិងមិត្តគាត់</description>
+  </build>	
+	
   <build>
 	<name>ATV-LR</name>
 	<version>[COLOR blue]Kodi 21.3 Omega[/COLOR]</version>	  
