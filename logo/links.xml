@@ -8,25 +8,16 @@
  
   <build>
 	<name>អ្នកអាតនិងមិត្តគាត់ Neak Ath</name>
-	<version>[COLOR blue]Kodi 21.2 Omega[/COLOR]</version>
+	<version>[COLOR blue]Kodi 21.3 Omega[/COLOR]</version>
 	<url>https://www.dropbox.com/scl/fi/sv3m17rwfgh4odqm21skd/AllBoxes.zip?rlkey=3kmu6r87z6wyj0rrm1sahtdic&amp;st=hfjuzp67&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
 	<description>វីដេអូរបស់អ្នកអាតនិងមិត្តគាត់</description>
   </build>	
-  
-  <build>
-	<name>Kids</name>
-	<version>[COLOR blue]Kodi 21.2 Omega[/COLOR]</version>	  
-	<url>https://www.dropbox.com/scl/fi/j82sfw5zxfgvpdfajsh2m/Kid.zip?rlkey=ncks1dr278ssm64grllgcanor&amp;st=x5mzhdda&amp;dl=1</url>
-	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/person.png</icon>
-	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>Kids Only</description>
-  </build>	  
-  
+   
   <build>
 	<name>ATV-LR</name>
-	<version>[COLOR blue]Kodi 21.2 Omega[/COLOR]</version>	  
+	<version>[COLOR blue]Kodi 21.3 Omega[/COLOR]</version>	  
 	<url>https://www.dropbox.com/scl/fi/3uqtz1gbe4a4xevd7rx8q/ATV-LR.zip?rlkey=01wx6ktgfxczqlgwgcqjn7ds0&amp;st=96xkqs9x&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
@@ -35,7 +26,7 @@
   
   <build>
 	<name>ATV-DR</name>
-	<version>[COLOR blue]Kodi 21.2 Omega[/COLOR]</version>	  
+	<version>[COLOR blue]Kodi 21.3 Omega[/COLOR]</version>	  
 	<url>https://www.dropbox.com/scl/fi/fpd2qb0nioig8qjp5buru/ATV-DR.zip?rlkey=1j89grjikjg84pcfx96c2xb7t&amp;st=7eiebna4&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/appletv.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
