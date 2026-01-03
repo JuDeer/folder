@@ -16,12 +16,21 @@
   </build>	
 
   <build>
+	<name>បងណែម Bong Nem</name>
+	<version>[COLOR blue]Kodi 21.3 Omega[/COLOR]</version>
+	<url>https://www.dropbox.com/scl/fi/jec9ur05sm8az31gscd5q/Nem.zip?rlkey=erv4u7059jvm0hu9edrujbywp&amp;st=azz10lwx&amp;dl=1</url>
+	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
+	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
+	<description>វីដេអូរបស់បងណែម</description>
+  </build>	
+	
+  <build>
 	<name>ភក្ដី Dave</name>
 	<version>[COLOR blue]Kodi 21.3 Omega[/COLOR]</version>
 	<url>https://www.dropbox.com/scl/fi/tiquxi5gpcg11of6coiv6/Dave.zip?rlkey=1xb97qwvtuxwow9mmj1jtxwg8&amp;st=hkopvm1c&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ikon.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>វីដេអូរបស់អ្នកអាតនិងមិត្តគាត់</description>
+	<description>វីដេអូរបស់ភក្ដី</description>
   </build>	
 	
   <build>
@@ -30,7 +39,7 @@
 	<url>https://www.dropbox.com/scl/fi/3uqtz1gbe4a4xevd7rx8q/ATV-LR.zip?rlkey=01wx6ktgfxczqlgwgcqjn7ds0&amp;st=96xkqs9x&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ATV-LR.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>AppleTV</description>
+	<description>AppleTV-LR</description>
   </build>	  
   
   <build>
@@ -39,7 +48,7 @@
 	<url>https://www.dropbox.com/scl/fi/fpd2qb0nioig8qjp5buru/ATV-DR.zip?rlkey=1j89grjikjg84pcfx96c2xb7t&amp;st=7eiebna4&amp;dl=1</url>
 	<icon>https://raw.githubusercontent.com/JuDeer/folder/master/logo/ATV-DR.png</icon>
 	<fanart>https://raw.githubusercontent.com/JuDeer/folder/master/logo/backs.jpg</fanart>
-	<description>AppleTV</description>
+	<description>AppleTV-DR</description>
   </build>	 
 	
 </builds>
