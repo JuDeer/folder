@@ -2,8 +2,8 @@
   "exportType" : "fusionWidgets",
   "exportVersion" : 1,
   "requiredAddons" : [
-    "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
-    "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohNi12G6g$ "
+    "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
+    "https://aiostreams-nightly.fortheweak.cloud/stremio/4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/manifest.json"
   ],
   "widgets" : [
     {
@@ -35,7 +35,7 @@
               "hideTitle" : true,
               "id" : "0CED5664-6650-4591-B1DC-AAF8A70D3174",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*netflix-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoi5kkMj0g$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/netflix-square.png",
               "title" : "Netflix"
             },
             {
@@ -62,7 +62,7 @@
               "hideTitle" : true,
               "id" : "FE649C67-65C1-493E-AAD1-3D746ABA3862",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*disney-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohpahg4xw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/disney-square.png",
               "title" : "Disney"
             },
             {
@@ -89,7 +89,7 @@
               "hideTitle" : true,
               "id" : "75805F13-F034-4D13-B26F-42A30BC20043",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*appletv-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoj0PK8X9Q$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/appletv-square.png",
               "title" : "Appletv"
             },
             {
@@ -116,7 +116,7 @@
               "hideTitle" : true,
               "id" : "CA61FEF7-F3F4-4FF1-A7AB-4D1E2633B097",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*hulu-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojtLnbqCA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/hulu-square.png",
               "title" : "Hulu"
             },
             {
@@ -143,7 +143,7 @@
               "hideTitle" : true,
               "id" : "656818BB-3A3C-4DE6-9704-CCA16F06C11A",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*paramount-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohxI2mnag$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/paramount-square.png",
               "title" : "Paramount"
             },
             {
@@ -170,7 +170,7 @@
               "hideTitle" : true,
               "id" : "5EE95322-C270-4EE7-B0B5-FBB693F5E8EB",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*crunchyroll-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiHHaoYFw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/crunchyroll-square.png",
               "title" : "Crunchyroll"
             },
             {
@@ -197,7 +197,7 @@
               "hideTitle" : true,
               "id" : "C23E5BCF-6181-4561-8DED-E6D84347B35A",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*peacock-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojCRtAMZA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/peacock-square.png",
               "title" : "Peacock"
             },
             {
@@ -224,7 +224,7 @@
               "hideTitle" : true,
               "id" : "7EEFE8B8-BEC9-4CD6-9224-2F3C860B95CA",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*primevideo-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoj7SIwkWA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/primevideo-square.png",
               "title" : "Primevideo"
             },
             {
@@ -251,7 +251,7 @@
               "hideTitle" : true,
               "id" : "4D21AA93-AA9B-4BB3-912F-1D4005B205CC",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*max-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoioRlYOGA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/max-square.png",
               "title" : "Max"
             },
             {
@@ -278,7 +278,7 @@
               "hideTitle" : true,
               "id" : "D80BADA0-B7C5-4CA7-B749-980BF5D12919",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*hbomax-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojMkQVvmw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/hbomax-square.png",
               "title" : "Hbomax"
             },
             {
@@ -296,7 +296,7 @@
               "hideTitle" : true,
               "id" : "83B2C56E-7653-451E-94B9-FF0942CC042F",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*discoveryplus-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogdgxo-Qg$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/discoveryplus-square.png",
               "title" : "Discoveryplus"
             },
             {
@@ -314,7 +314,7 @@
               "hideTitle" : true,
               "id" : "B66D3E23-C33B-4666-8323-ED6B7A75C5A0",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*skyshowtime-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoj8uEHmRQ$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/skyshowtime-square.png",
               "title" : "Skyshowtime"
             },
             {
@@ -341,7 +341,7 @@
               "hideTitle" : true,
               "id" : "04F0DFE5-3369-443F-B60E-108A8022FAD3",
               "imageAspect" : "square",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*itsrenoria/*fusion-starter-kit/*refs/*heads/*main/*resources/*widgets/*streaming/*square/*orangebyte/*original/*bet-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojOJTTtbA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/bet-square.png",
               "title" : "Bet"
             }
           ]
@@ -374,7 +374,7 @@
               "hideTitle" : true,
               "id" : "3A9CDC3D-F61A-42BC-9499-7E35666D861A",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-action.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkog14fsUAQ$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-action.png",
               "title" : "Action"
             },
             {
@@ -395,7 +395,7 @@
               "hideTitle" : true,
               "id" : "3596024B-023B-4A54-9856-52A41EAA3495",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-adventure.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojawQg3dQ$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-adventure.png",
               "title" : "Adventure"
             },
             {
@@ -416,7 +416,7 @@
               "hideTitle" : true,
               "id" : "242A074B-DE47-4A9F-8A0D-DDD8132B4F69",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-animation.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogGk2NEVw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-animation.png",
               "title" : "Animation"
             },
             {
@@ -437,7 +437,7 @@
               "hideTitle" : true,
               "id" : "E7911A49-4090-4002-9D28-C868435766EF",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-comedy.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohrnx_JGw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-comedy.png",
               "title" : "Comedy"
             },
             {
@@ -458,7 +458,7 @@
               "hideTitle" : true,
               "id" : "B4750BA0-E618-4952-B3DB-4FB6D9ECDDB8",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-crime.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoixFLNwIw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-crime.png",
               "title" : "Crime"
             },
             {
@@ -479,7 +479,7 @@
               "hideTitle" : true,
               "id" : "3E5BCC26-C585-445A-A3DB-D994165B21B1",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-documentary.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohaZG-5IA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-documentary.png",
               "title" : "Documentary"
             },
             {
@@ -500,7 +500,7 @@
               "hideTitle" : true,
               "id" : "35C79067-7DDE-4EDF-B264-85B0D015902C",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-drama.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiXOhZ3Qg$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-drama.png",
               "title" : "Drama"
             },
             {
@@ -521,7 +521,7 @@
               "hideTitle" : true,
               "id" : "6D6D9E13-047E-42F2-82CC-8529D8FB74F1",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-fantasy.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoi6Fq9QDg$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-fantasy.png",
               "title" : "Fantasy"
             },
             {
@@ -542,7 +542,7 @@
               "hideTitle" : true,
               "id" : "F124AA5C-8E6C-40DD-BE06-A69DEF47A3C2",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-historical.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogfBaBO7A$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-historical.png",
               "title" : "Historical"
             },
             {
@@ -563,7 +563,7 @@
               "hideTitle" : true,
               "id" : "9D830766-3E40-4A87-8A56-7152A3CFE54F",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-horror.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogW6PtXMA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-horror.png",
               "title" : "Horror"
             },
             {
@@ -584,7 +584,7 @@
               "hideTitle" : true,
               "id" : "3D9A090B-C98B-4172-849A-A0A22221C435",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-kids.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiUAvNJ7w$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-kids.png",
               "title" : "Kids"
             },
             {
@@ -605,7 +605,7 @@
               "hideTitle" : true,
               "id" : "2775C164-384E-48F5-A10F-F2950EC4DFA6",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-mystery.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojQE1lslg$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-mystery.png",
               "title" : "Mystery"
             },
             {
@@ -626,7 +626,7 @@
               "hideTitle" : true,
               "id" : "98C29805-3CCD-49D1-B0C8-AB1BDA128A9A",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-romance.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohDjSPwsA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-romance.png",
               "title" : "Romance"
             },
             {
@@ -647,7 +647,7 @@
               "hideTitle" : true,
               "id" : "9D249746-CA81-42E6-8E89-4AC1F896F2F6",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-sci-fi.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiLG-MO-w$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-sci-fi.png",
               "title" : "Sci-Fi"
             },
             {
@@ -668,7 +668,7 @@
               "hideTitle" : true,
               "id" : "45A710F5-59ED-4573-8F00-56191E27D011",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-thriller.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoheFydp0A$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-thriller.png",
               "title" : "Thriller"
             },
             {
@@ -689,7 +689,7 @@
               "hideTitle" : true,
               "id" : "7BBEC131-301E-461E-9E3D-6B184C06A648",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-war.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohxnuM_5A$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-war.png",
               "title" : "War"
             },
             {
@@ -710,7 +710,7 @@
               "hideTitle" : true,
               "id" : "AD40F2C8-3E6E-4DD8-9FBB-2A64D918A52C",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*genres/*genre-western.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiud3ntyA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/genres/genre-western.png",
               "title" : "Western"
             }
           ]
@@ -740,7 +740,7 @@
               "hideTitle" : true,
               "id" : "38DE1019-04CA-4C5D-9ABD-B1DFE214E315",
               "imageAspect" : "wide",
-              "imageURL" : "https://urldefense.com/v3/__https://i.postimg.cc/*bY9xqcDr/*EBR_TVA_WW_2025.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoi37eS1NQ$ ",
+              "imageURL" : "https://i.postimg.cc/bY9xqcDr/EBR_TVA_WW_2025.png",
               "title" : "Popular 2025"
             },
             {
@@ -758,7 +758,7 @@
               "hideTitle" : true,
               "id" : "7C8BE8D8-89A8-4426-AF81-ED78261404FB",
               "imageAspect" : "wide",
-              "imageURL" : "https://urldefense.com/v3/__https://i.postimg.cc/*bY9xqcDt/*EBR_TVA_WW_2020s.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojrpjl-Fw$ ",
+              "imageURL" : "https://i.postimg.cc/bY9xqcDt/EBR_TVA_WW_2020s.png",
               "title" : "2020 Movies"
             },
             {
@@ -776,7 +776,7 @@
               "hideTitle" : true,
               "id" : "5853BB60-5729-4270-B5EF-6407D3F26404",
               "imageAspect" : "wide",
-              "imageURL" : "https://urldefense.com/v3/__https://i.postimg.cc/*9FXGM8Zp/*EBR_TVA_WW_2010s.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiqm59ebA$ ",
+              "imageURL" : "https://i.postimg.cc/9FXGM8Zp/EBR_TVA_WW_2010s.png",
               "title" : "2010 Movies"
             },
             {
@@ -794,7 +794,7 @@
               "hideTitle" : true,
               "id" : "73199E41-B14B-4106-B2F0-FA831C90A6BA",
               "imageAspect" : "wide",
-              "imageURL" : "https://urldefense.com/v3/__https://i.postimg.cc/*c1BRdyg3/*EBR_TVA_WW_2000s.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiPiBUD8g$ ",
+              "imageURL" : "https://i.postimg.cc/c1BRdyg3/EBR_TVA_WW_2000s.png",
               "title" : "2000 Movies"
             },
             {
@@ -812,7 +812,7 @@
               "hideTitle" : true,
               "id" : "72991BC9-BC60-4E0B-B0DA-17E60E25B13C",
               "imageAspect" : "wide",
-              "imageURL" : "https://urldefense.com/v3/__https://i.postimg.cc/*44Q6Xk7t/*EBR_TVA_WW_1990s.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogycA4HnA$ ",
+              "imageURL" : "https://i.postimg.cc/44Q6Xk7t/EBR_TVA_WW_1990s.png",
               "title" : "1990 Movies"
             },
             {
@@ -830,7 +830,7 @@
               "hideTitle" : true,
               "id" : "8A4188AB-0568-4C0E-84E6-2842F7C20E69",
               "imageAspect" : "wide",
-              "imageURL" : "https://urldefense.com/v3/__https://i.postimg.cc/*bNYQJCkS/*EBR_TVA_WW_1980s.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoguzfw3tw$ ",
+              "imageURL" : "https://i.postimg.cc/bNYQJCkS/EBR_TVA_WW_1980s.png",
               "title" : "1980 Movies"
             },
             {
@@ -848,7 +848,7 @@
               "hideTitle" : true,
               "id" : "E80FA67B-A063-4595-AC45-4DBA18AF78C8",
               "imageAspect" : "wide",
-              "imageURL" : "https://urldefense.com/v3/__https://i.postimg.cc/*RCL7v56q/*EBR_TVA_WW_1970s_02.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiM5X1CdQ$ ",
+              "imageURL" : "https://i.postimg.cc/RCL7v56q/EBR_TVA_WW_1970s_02.png",
               "title" : "1970 Movies"
             }
           ]
@@ -878,7 +878,7 @@
               "hideTitle" : true,
               "id" : "E2EEC0FC-29C0-4D71-9975-ADA177E1F4FB",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-007.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohfmAHvTA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-007.png",
               "title" : "007"
             },
             {
@@ -896,7 +896,7 @@
               "hideTitle" : true,
               "id" : "alien",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-alien.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojT-QP32g$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-alien.png",
               "title" : "Alien"
             },
             {
@@ -914,7 +914,7 @@
               "hideTitle" : true,
               "id" : "avatar",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-avatar.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiJLRYTLA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-avatar.png",
               "title" : "Avatar"
             },
             {
@@ -932,7 +932,7 @@
               "hideTitle" : true,
               "id" : "back-to-the-future",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-back-to-the-future.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoih1OdQHQ$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-back-to-the-future.png",
               "title" : "Back to the Future"
             },
             {
@@ -950,7 +950,7 @@
               "hideTitle" : true,
               "id" : "blade-runner",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-blade-runner.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohDPQb4GA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-blade-runner.png",
               "title" : "Blade Runner"
             },
             {
@@ -968,7 +968,7 @@
               "hideTitle" : true,
               "id" : "conjuring",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-conjuring.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogXWob-pg$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-conjuring.png",
               "title" : "Conjuring"
             },
             {
@@ -986,7 +986,7 @@
               "hideTitle" : true,
               "id" : "creed",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-creed.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogkSQJq_A$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-creed.png",
               "title" : "Creed"
             },
             {
@@ -1004,7 +1004,7 @@
               "hideTitle" : true,
               "id" : "dc-comics",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-dc-comics.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh1SCAbXw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-dc-comics.png",
               "title" : "DC Comics"
             },
             {
@@ -1022,7 +1022,7 @@
               "hideTitle" : true,
               "id" : "dune",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-dune.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojG_lSEzg$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-dune.png",
               "title" : "Dune"
             },
             {
@@ -1040,7 +1040,7 @@
               "hideTitle" : true,
               "id" : "expendables",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-expendables.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoi2uLIUXg$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-expendables.png",
               "title" : "The Expendables"
             },
             {
@@ -1058,7 +1058,7 @@
               "hideTitle" : true,
               "id" : "fast-and-furious",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-fast-furious.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojys6qTxA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-fast-furious.png",
               "title" : "Fast & Furious"
             },
             {
@@ -1076,7 +1076,7 @@
               "hideTitle" : true,
               "id" : "ghostbusters",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-ghostbusters.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogXrtsO_A$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-ghostbusters.png",
               "title" : "Ghostbusters"
             },
             {
@@ -1094,7 +1094,7 @@
               "hideTitle" : true,
               "id" : "godfather",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-godfather.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohRBu-p8Q$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-godfather.png",
               "title" : "The Godfather"
             },
             {
@@ -1112,7 +1112,7 @@
               "hideTitle" : true,
               "id" : "harry-potter",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-harry-potter.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoi0Nqb90g$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-harry-potter.png",
               "title" : "Harry Potter"
             },
             {
@@ -1130,7 +1130,7 @@
               "hideTitle" : true,
               "id" : "indiana-jones",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-indiana-jones.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohhqfnVaw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-indiana-jones.png",
               "title" : "Indiana Jones"
             },
             {
@@ -1148,7 +1148,7 @@
               "hideTitle" : true,
               "id" : "john-wick",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-john-wick.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogWdksydg$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-john-wick.png",
               "title" : "John Wick"
             },
             {
@@ -1166,7 +1166,7 @@
               "hideTitle" : true,
               "id" : "jurassic-park",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-jurassic-park.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohC1IB4Kw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-jurassic-park.png",
               "title" : "Jurassic Park"
             },
             {
@@ -1184,7 +1184,7 @@
               "hideTitle" : true,
               "id" : "marvel",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-marvel.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojbQUYT6g$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-marvel.png",
               "title" : "Marvel"
             },
             {
@@ -1202,7 +1202,7 @@
               "hideTitle" : true,
               "id" : "matrix",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-matrix.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogLkzTOSQ$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-matrix.png",
               "title" : "Matrix"
             },
             {
@@ -1220,7 +1220,7 @@
               "hideTitle" : true,
               "id" : "mission-impossible",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-mission-impossible.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh1IaXJiQ$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-mission-impossible.png",
               "title" : "Mission Impossible"
             },
             {
@@ -1238,7 +1238,7 @@
               "hideTitle" : true,
               "id" : "pirates-of-the-caribbean",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-pirates-of-the-caribbean.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohSmUn_Hw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-pirates-of-the-caribbean.png",
               "title" : "Pirates of the Caribbean"
             },
             {
@@ -1256,7 +1256,7 @@
               "hideTitle" : true,
               "id" : "planet-of-the-apes",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-planet-of-the-apes.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohY3Z1CEQ$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-planet-of-the-apes.png",
               "title" : "Planet of the Apes"
             },
             {
@@ -1274,7 +1274,7 @@
               "hideTitle" : true,
               "id" : "rambo",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-rambo.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojpuaNf4Q$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-rambo.png",
               "title" : "Rambo"
             },
             {
@@ -1292,7 +1292,7 @@
               "hideTitle" : true,
               "id" : "rocky",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-rocky.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoigSDHGnA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-rocky.png",
               "title" : "Rocky"
             },
             {
@@ -1310,7 +1310,7 @@
               "hideTitle" : true,
               "id" : "scooby-doo",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-scooby-doo.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohzhA-mJA$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-scooby-doo.png",
               "title" : "Scooby-Doo"
             },
             {
@@ -1328,7 +1328,7 @@
               "hideTitle" : true,
               "id" : "star-trek",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-star-trek.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojWw57u1A$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-star-trek.png",
               "title" : "Star Trek"
             },
             {
@@ -1346,7 +1346,7 @@
               "hideTitle" : true,
               "id" : "star-wars",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-star-wars.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohkTX4Rlw$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-star-wars.png",
               "title" : "Star Wars"
             },
             {
@@ -1364,7 +1364,7 @@
               "hideTitle" : true,
               "id" : "the-hunger-games",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-the-hunger-games.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiqDkDl1w$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-the-hunger-games.png",
               "title" : "The Hunger Games"
             },
             {
@@ -1382,7 +1382,7 @@
               "hideTitle" : true,
               "id" : "the-lord-of-the-rings",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-the-lord-of-the-rings.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohbi60joQ$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-the-lord-of-the-rings.png",
               "title" : "The Lord of the Rings"
             },
             {
@@ -1400,7 +1400,7 @@
               "hideTitle" : true,
               "id" : "transformers",
               "imageAspect" : "poster",
-              "imageURL" : "https://urldefense.com/v3/__https://raw.githubusercontent.com/*Yakuza2635/*fusion_app-content/*main/*folders/*posters/*collections/*collection-transformers.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojD8V4-5g$ ",
+              "imageURL" : "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/collections/collection-transformers.png",
               "title" : "Transformers"
             }
           ]
@@ -1535,12 +1535,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "movie::mdblist.86934",
           "type" : "movie"
         }
       },
-      "id" : "catalog.37EF6350-7170-4E8E-A022-191400E110A9",
+      "id" : "catalog.46404266-E0A6-4EB1-ADCB-46ED42FF74B0",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1557,12 +1557,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.shd",
           "type" : "movie"
         }
       },
-      "id" : "catalog.6013F8C4-C63A-4BC4-A57E-00256B2DD3CB",
+      "id" : "catalog.E2B3D156-F1E8-4F2C-B08F-20E0E13656FE",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1579,12 +1579,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "series::streaming.sta_series",
           "type" : "series"
         }
       },
-      "id" : "catalog.63255E99-5398-4A69-AFBE-2F8AC7753E87",
+      "id" : "catalog.1342ADD4-3E35-49B0-94A4-82D57311E4BD",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1601,12 +1601,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "movie::streaming.sta_movie",
           "type" : "movie"
         }
       },
-      "id" : "catalog.EA703DE9-B55F-4E5D-BCA4-EACB3DFD4458",
+      "id" : "catalog.6D8179FF-1550-482B-98BE-F403BDB901E5",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1623,12 +1623,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "series::custom.pw_ers_netflix_catalog.series.iqi",
           "type" : "series"
         }
       },
-      "id" : "catalog.27DE1A8B-4E04-4988-AE01-BAD103462D3D",
+      "id" : "catalog.C8ACD7B9-A958-483B-ACB1-0888532AF226",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1645,12 +1645,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.iqi",
           "type" : "movie"
         }
       },
-      "id" : "catalog.44B0A08B-C352-43A7-BBD2-696AD627220E",
+      "id" : "catalog.3438E134-462A-42CA-A94F-919A803E94DB",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1667,12 +1667,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohNi12G6g$ ",
+          "addonId" : "https://aiostreams-nightly.fortheweak.cloud/stremio/4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/manifest.json",
           "catalogId" : "series::416e3b0.K-Dramas",
           "type" : "series"
         }
       },
-      "id" : "catalog.7A1A52E3-A769-43DC-89BA-D76DB341DAEB",
+      "id" : "catalog.3C4E0E35-8713-4CD9-BA72-992B852CE262",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1689,12 +1689,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohNi12G6g$ ",
+          "addonId" : "https://aiostreams-nightly.fortheweak.cloud/stremio/4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/manifest.json",
           "catalogId" : "series::416e3b0.J-Dramas",
           "type" : "series"
         }
       },
-      "id" : "catalog.B357AFAD-4984-41C7-B339-867A47FC3B7E",
+      "id" : "catalog.97DB7545-71F6-45E7-ABA8-33A21723C9ED",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1704,30 +1704,6 @@
         "cardStyle" : "medium"
       },
       "title" : "Japanese Drama Series",
-      "type" : "row.classic"
-    },
-    {
-      "cacheTTL" : 3600,
-      "dataSource" : {
-        "kind" : "traktList",
-        "payload" : {
-          "listName" : "Trending Anime Shows",
-          "listSlug" : "trending-anime-shows",
-          "traktId" : 30828760,
-          "username" : "tvgeniekodi"
-        }
-      },
-      "id" : "trakt.0CB86FE1-6035-49CA-94A4-CCD8D6249EA0",
-      "limit" : 50,
-      "presentation" : {
-        "aspectRatio" : "poster",
-        "badges" : {
-          "providers" : false,
-          "ratings" : true
-        },
-        "cardStyle" : "medium"
-      },
-      "title" : "Trending Anime Shows",
       "type" : "row.classic"
     },
     {
@@ -1755,16 +1731,40 @@
       "type" : "row.classic"
     },
     {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Trending Anime Shows",
+          "listSlug" : "trending-anime-shows",
+          "traktId" : 30828760,
+          "username" : "tvgeniekodi"
+        }
+      },
+      "id" : "trakt.0CB86FE1-6035-49CA-94A4-CCD8D6249EA0",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Trending Anime Shows",
+      "type" : "row.classic"
+    },
+    {
       "cacheTTL" : 1800,
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "anime::mal.airing",
           "type" : "series"
         }
       },
-      "id" : "catalog.64F78B41-F746-4A3B-A760-F9349A5A5A6E",
+      "id" : "catalog.1A0A95A8-5DB5-4007-9E10-DF4FF9F47954",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1781,12 +1781,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "anime::anilist.trending",
           "type" : "series"
         }
       },
-      "id" : "catalog.10533DC6-23EB-4FA2-A266-831C839067BF",
+      "id" : "catalog.E677600B-2EAF-474E-8087-37E002AD8B2D",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1803,12 +1803,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "anime::custom.org_stremio_animecatalogs.anime.anidb_latest_ended",
           "type" : "series"
         }
       },
-      "id" : "catalog.F533D0D8-760B-4220-BB0D-07F476DCB9D0",
+      "id" : "catalog.6F187BFC-D151-4A64-BF13-EFD94154DA00",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1825,12 +1825,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "anime::mal.top_series",
           "type" : "series"
         }
       },
-      "id" : "catalog.55219E28-5E42-41B6-85B2-414B50D5BF23",
+      "id" : "catalog.28C821EF-F6D7-41A2-BD1D-2D3B57443FD6",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1847,12 +1847,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "anime::mal.top_movies_anime",
           "type" : "series"
         }
       },
-      "id" : "catalog.D9ABBD6B-1941-40D7-9A7F-E8EAD8C3867B",
+      "id" : "catalog.6F122AB5-43D1-4223-817A-50B5444B1CE4",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1869,12 +1869,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh-ZP6eaA$ ",
+          "addonId" : "https://aiometadata.fortheweak.cloud/stremio/b1a41eba-78b2-4337-9026-4ae94476d362/manifest.json",
           "catalogId" : "anime::mal.most_popular",
           "type" : "series"
         }
       },
-      "id" : "catalog.81BB1BCC-9593-4AF1-9E8A-EC7769B2546C",
+      "id" : "catalog.72751131-C94A-4162-95F1-2F78763E0D60",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1891,12 +1891,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohNi12G6g$ ",
+          "addonId" : "https://aiostreams-nightly.fortheweak.cloud/stremio/4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/manifest.json",
           "catalogId" : "anime::a10e3b0.kitsu-anime-trending",
           "type" : "series"
         }
       },
-      "id" : "catalog.057DFA16-42AF-4438-A8E1-F53F1DE99D9C",
+      "id" : "catalog.EB9764D7-2689-4533-A923-0DAC62C4ADCD",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1913,12 +1913,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohNi12G6g$ ",
+          "addonId" : "https://aiostreams-nightly.fortheweak.cloud/stremio/4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/manifest.json",
           "catalogId" : "anime::a10e3b0.kitsu-anime-airing",
           "type" : "series"
         }
       },
-      "id" : "catalog.7B8A8E3E-0201-4DA1-B82E-C1D4671D0BE4",
+      "id" : "catalog.38801770-F5AE-41C7-91F1-72618DDDC00A",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1935,12 +1935,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohNi12G6g$ ",
+          "addonId" : "https://aiostreams-nightly.fortheweak.cloud/stremio/4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/manifest.json",
           "catalogId" : "anime::a10e3b0.kitsu-anime-popular",
           "type" : "series"
         }
       },
-      "id" : "catalog.44B9AAFB-C341-45C1-A576-AEF9C2F1804D",
+      "id" : "catalog.A4C4B534-CF58-46A9-8D7B-C91CDF29D0B8",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1957,12 +1957,12 @@
       "dataSource" : {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohNi12G6g$ ",
+          "addonId" : "https://aiostreams-nightly.fortheweak.cloud/stremio/4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/manifest.json",
           "catalogId" : "anime::a10e3b0.kitsu-anime-rating",
           "type" : "series"
         }
       },
-      "id" : "catalog.4DAC5087-2C25-4F36-94F5-BF7D61683636",
+      "id" : "catalog.C30C32CB-E139-49A4-9567-A6A2EF4E7F2D",
       "presentation" : {
         "aspectRatio" : "poster",
         "badges" : {
@@ -1972,6 +1972,28 @@
         "cardStyle" : "medium"
       },
       "title" : "Kitsu Highest Rated Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://aiostreams-nightly.fortheweak.cloud/stremio/4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/manifest.json",
+          "catalogId" : "anime::a10e3b0.kitsu-anime-list",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.39E55ECB-F1F6-40A2-9312-B146651C4D56",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Kitsu Anime",
       "type" : "row.classic"
     }
   ]
