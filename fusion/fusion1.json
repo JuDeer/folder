@@ -1,0 +1,2000 @@
+{
+  "exportType" : "fusionWidgets",
+  "exportVersion" : 1,
+  "requiredAddons" : [
+    "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+    "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8R4WjgNw$ "
+  ],
+  "widgets" : [
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Netflix Movies",
+                    "listSlug" : "top-netflix-movies",
+                    "traktId" : 33032882,
+                    "username" : "snoak"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Netflix Shows",
+                    "listSlug" : "top-netflix-shows",
+                    "traktId" : 33032878,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "0CED5664-6650-4591-B1DC-AAF8A70D3174",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*netflix-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoi5kkMj0g$  ",
+              "title" : "Netflix"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Disney+ Movies",
+                    "listSlug" : "top-disney-movies",
+                    "traktId" : 33032904,
+                    "username" : "snoak"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Disney+ Shows",
+                    "listSlug" : "top-disney-shows",
+                    "traktId" : 33032903,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "FE649C67-65C1-493E-AAD1-3D746ABA3862",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*disney-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohpahg4xw$  ",
+              "title" : "Disney"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Apple TV+ Movies",
+                    "listSlug" : "top-apple-tv-movies",
+                    "traktId" : 33032900,
+                    "username" : "snoak"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Apple TV+ Shows",
+                    "listSlug" : "top-apple-tv-shows",
+                    "traktId" : 33032894,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "75805F13-F034-4D13-B26F-42A30BC20043",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*appletv-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoj0PK8X9Q$  ",
+              "title" : "Appletv"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Hulu Movies",
+                    "listSlug" : "top-hulu-movies",
+                    "traktId" : 33118941,
+                    "username" : "snoak"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Hulu Shows",
+                    "listSlug" : "top-hulu-shows",
+                    "traktId" : 33118956,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "CA61FEF7-F3F4-4FF1-A7AB-4D1E2633B097",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*hulu-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojtLnbqCA$  ",
+              "title" : "Hulu"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Paramount+ Movies",
+                    "listSlug" : "top-paramount-movies",
+                    "traktId" : 33032910,
+                    "username" : "snoak"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Paramount+ Shows",
+                    "listSlug" : "top-paramount-shows",
+                    "traktId" : 33032908,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "656818BB-3A3C-4DE6-9704-CCA16F06C11A",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*paramount-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohxI2mnag$  ",
+              "title" : "Paramount"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Crunchyroll - Movies",
+                    "listSlug" : "crunchyroll-movies",
+                    "traktId" : 31454433,
+                    "username" : "Frostypolicia"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Crunchyroll - Shows",
+                    "listSlug" : "crunchyroll-shows",
+                    "traktId" : 31475824,
+                    "username" : "Frostypolicia"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "5EE95322-C270-4EE7-B0B5-FBB693F5E8EB",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*crunchyroll-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiHHaoYFw$  ",
+              "title" : "Crunchyroll"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Peacock Movies",
+                    "listSlug" : "peacock-movies",
+                    "traktId" : 30504299,
+                    "username" : "tvgeniekodi"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Peacock Shows",
+                    "listSlug" : "peacock-shows",
+                    "traktId" : 30504294,
+                    "username" : "tvgeniekodi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "C23E5BCF-6181-4561-8DED-E6D84347B35A",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*peacock-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojCRtAMZA$  ",
+              "title" : "Peacock"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Amazon Prime Movies",
+                    "listSlug" : "top-amazon-prime-movies",
+                    "traktId" : 33032892,
+                    "username" : "snoak"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Amazon Prime Shows",
+                    "listSlug" : "top-amazon-prime-shows",
+                    "traktId" : 33032887,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "7EEFE8B8-BEC9-4CD6-9224-2F3C860B95CA",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*primevideo-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoj7SIwkWA$  ",
+              "title" : "Primevideo"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Max Movies",
+                    "listSlug" : "max-movies",
+                    "traktId" : 30828916,
+                    "username" : "tvgeniekodi"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Max Shows",
+                    "listSlug" : "max-shows",
+                    "traktId" : 30828923,
+                    "username" : "tvgeniekodi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "4D21AA93-AA9B-4BB3-912F-1D4005B205CC",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*max-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoioRlYOGA$  ",
+              "title" : "Max"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top HBO Max Movies",
+                    "listSlug" : "top-hbo-max-movies",
+                    "traktId" : 33032914,
+                    "username" : "snoak"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top HBO Max Shows",
+                    "listSlug" : "top-hbo-max-shows",
+                    "traktId" : 33032911,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "D80BADA0-B7C5-4CA7-B749-980BF5D12919",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*hbomax-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojMkQVvmw$  ",
+              "title" : "Hbomax"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Discovery+",
+                    "listSlug" : "discovery",
+                    "traktId" : 21043278,
+                    "username" : "moviemankev79"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "83B2C56E-7653-451E-94B9-FF0942CC042F",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*discoveryplus-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogdgxo-Qg$  ",
+              "title" : "Discoveryplus"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "skyshowtime",
+                    "listSlug" : "skyshowtime",
+                    "traktId" : 33841165,
+                    "username" : "certefied"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "B66D3E23-C33B-4666-8323-ED6B7A75C5A0",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*skyshowtime-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoj8uEHmRQ$  ",
+              "title" : "Skyshowtime"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "BET+ Movies",
+                    "listSlug" : "bet-movies",
+                    "traktId" : 30828837,
+                    "username" : "tvgeniekodi"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "BET+ Shows",
+                    "listSlug" : "bet-shows",
+                    "traktId" : 30828845,
+                    "username" : "tvgeniekodi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "04F0DFE5-3369-443F-B60E-108A8022FAD3",
+              "imageAspect" : "square",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*itsrenoria//*fusion-starter-kit//*refs//*heads//*main//*resources//*widgets//*streaming//*square//*orangebyte//*original//*bet-square.png__;Ly8vLy8vLy8vLy8v!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojOJTTtbA$  ",
+              "title" : "Bet"
+            }
+          ]
+        }
+      },
+      "id" : "collection.DD2D711F-60AA-4D3E-80A7-DEDEBFF7BB96",
+      "title" : "Streaming",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      28
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "3A9CDC3D-F61A-42BC-9499-7E35666D861A",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-action.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkog14fsUAQ$  ",
+              "title" : "Action"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      12
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "3596024B-023B-4A54-9856-52A41EAA3495",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-adventure.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojawQg3dQ$  ",
+              "title" : "Adventure"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      16
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "242A074B-DE47-4A9F-8A0D-DDD8132B4F69",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-animation.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogGk2NEVw$  ",
+              "title" : "Animation"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      35
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "E7911A49-4090-4002-9D28-C868435766EF",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-comedy.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohrnx_JGw$  ",
+              "title" : "Comedy"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      80
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "B4750BA0-E618-4952-B3DB-4FB6D9ECDDB8",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-crime.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoixFLNwIw$  ",
+              "title" : "Crime"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      99
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "3E5BCC26-C585-445A-A3DB-D994165B21B1",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-documentary.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohaZG-5IA$  ",
+              "title" : "Documentary"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      18
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "35C79067-7DDE-4EDF-B264-85B0D015902C",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-drama.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiXOhZ3Qg$  ",
+              "title" : "Drama"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      14
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "6D6D9E13-047E-42F2-82CC-8529D8FB74F1",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-fantasy.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoi6Fq9QDg$  ",
+              "title" : "Fantasy"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      36
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "F124AA5C-8E6C-40DD-BE06-A69DEF47A3C2",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-historical.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogfBaBO7A$  ",
+              "title" : "Historical"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      27
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "9D830766-3E40-4A87-8A56-7152A3CFE54F",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-horror.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogW6PtXMA$  ",
+              "title" : "Horror"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      10751
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "3D9A090B-C98B-4172-849A-A0A22221C435",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-kids.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiUAvNJ7w$  ",
+              "title" : "Kids"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      9648
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "2775C164-384E-48F5-A10F-F2950EC4DFA6",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-mystery.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojQE1lslg$  ",
+              "title" : "Mystery"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      10749
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "98C29805-3CCD-49D1-B0C8-AB1BDA128A9A",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-romance.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohDjSPwsA$  ",
+              "title" : "Romance"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      878
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "9D249746-CA81-42E6-8E89-4AC1F896F2F6",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-sci-fi.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiLG-MO-w$  ",
+              "title" : "Sci-Fi"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      53
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "45A710F5-59ED-4573-8F00-56191E27D011",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-thriller.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoheFydp0A$  ",
+              "title" : "Thriller"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      10752
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "7BBEC131-301E-461E-9E3D-6B184C06A648",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-war.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohxnuM_5A$  ",
+              "title" : "War"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "includeGenres" : [
+                      37
+                    ],
+                    "releaseChannel" : "digital",
+                    "releaseStatus" : "released",
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "AD40F2C8-3E6E-4DD8-9FBB-2A64D918A52C",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*genres//*genre-western.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiud3ntyA$  ",
+              "title" : "Western"
+            }
+          ]
+        }
+      },
+      "id" : "collection.78960297-E08B-4774-A84D-5D077DD05BAB",
+      "title" : "Movie Genres",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 2025 Movies",
+                    "listSlug" : "popular-2025-movies",
+                    "traktId" : 33032974,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "38DE1019-04CA-4C5D-9ABD-B1DFE214E315",
+              "imageAspect" : "wide",
+              "imageURL" : "https://urldefense.com//v3//__https:////i.postimg.cc//*bY9xqcDr//*EBR_TVA_WW_2025.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoi37eS1NQ$  ",
+              "title" : "Popular 2025"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 2020s Movies",
+                    "listSlug" : "popular-2020s-movies",
+                    "traktId" : 33032971,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "7C8BE8D8-89A8-4426-AF81-ED78261404FB",
+              "imageAspect" : "wide",
+              "imageURL" : "https://urldefense.com//v3//__https:////i.postimg.cc//*bY9xqcDt//*EBR_TVA_WW_2020s.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojrpjl-Fw$  ",
+              "title" : "2020 Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 2010s Movies",
+                    "listSlug" : "popular-2010s-movies",
+                    "traktId" : 33032968,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "5853BB60-5729-4270-B5EF-6407D3F26404",
+              "imageAspect" : "wide",
+              "imageURL" : "https://urldefense.com//v3//__https:////i.postimg.cc//*9FXGM8Zp//*EBR_TVA_WW_2010s.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiqm59ebA$  ",
+              "title" : "2010 Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 2000s Movies",
+                    "listSlug" : "popular-2000s-movies",
+                    "traktId" : 33032965,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "73199E41-B14B-4106-B2F0-FA831C90A6BA",
+              "imageAspect" : "wide",
+              "imageURL" : "https://urldefense.com//v3//__https:////i.postimg.cc//*c1BRdyg3//*EBR_TVA_WW_2000s.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiPiBUD8g$  ",
+              "title" : "2000 Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 1990s Movies",
+                    "listSlug" : "popular-1990s-movies",
+                    "traktId" : 33032959,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "72991BC9-BC60-4E0B-B0DA-17E60E25B13C",
+              "imageAspect" : "wide",
+              "imageURL" : "https://urldefense.com//v3//__https:////i.postimg.cc//*44Q6Xk7t//*EBR_TVA_WW_1990s.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogycA4HnA$  ",
+              "title" : "1990 Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 1980s Movies",
+                    "listSlug" : "popular-1980s-movies",
+                    "traktId" : 33032956,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "8A4188AB-0568-4C0E-84E6-2842F7C20E69",
+              "imageAspect" : "wide",
+              "imageURL" : "https://urldefense.com//v3//__https:////i.postimg.cc//*bNYQJCkS//*EBR_TVA_WW_1980s.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoguzfw3tw$  ",
+              "title" : "1980 Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 1970s Movies",
+                    "listSlug" : "popular-1970s-movies",
+                    "traktId" : 33119476,
+                    "username" : "snoak"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "E80FA67B-A063-4595-AC45-4DBA18AF78C8",
+              "imageAspect" : "wide",
+              "imageURL" : "https://urldefense.com//v3//__https:////i.postimg.cc//*RCL7v56q//*EBR_TVA_WW_1970s_02.png__;Ly8!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiM5X1CdQ$  ",
+              "title" : "1970 Movies"
+            }
+          ]
+        }
+      },
+      "id" : "collection.369962D1-4553-4CCC-98E1-705340FC099E",
+      "title" : "Decades",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "James Bond",
+                    "listSlug" : "james-bond",
+                    "traktId" : 31788775,
+                    "username" : "drjenkins"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "E2EEC0FC-29C0-4D71-9975-ADA177E1F4FB",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-007.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohfmAHvTA$  ",
+              "title" : "007"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Alien",
+                    "listSlug" : "alien",
+                    "traktId" : 31821017,
+                    "username" : "drjenkins"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "alien",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-alien.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojT-QP32g$  ",
+              "title" : "Alien"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Avatar",
+                    "listSlug" : "avatar",
+                    "traktId" : 33744778,
+                    "username" : "Kirky62"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "avatar",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-avatar.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiJLRYTLA$  ",
+              "title" : "Avatar"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Back to the Future",
+                    "listSlug" : "back-to-the-future",
+                    "traktId" : 32199686,
+                    "username" : "drjenkins"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "back-to-the-future",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-back-to-the-future.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoih1OdQHQ$  ",
+              "title" : "Back to the Future"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Blade Runner (Chronological)",
+                    "listSlug" : "blade-runner-chronological",
+                    "traktId" : 32424045,
+                    "username" : "furglitch"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "blade-runner",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-blade-runner.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohDPQb4GA$  ",
+              "title" : "Blade Runner"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Conjuring Universe",
+                    "listSlug" : "the-conjuring-universe",
+                    "traktId" : 31878663,
+                    "username" : "drjenkins"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "conjuring",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-conjuring.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogXWob-pg$  ",
+              "title" : "Conjuring"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Creed",
+                    "listSlug" : "creed",
+                    "traktId" : 26737471,
+                    "username" : "MadMax2004"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "creed",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-creed.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogkSQJq_A$  ",
+              "title" : "Creed"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "DC Movies",
+                    "listSlug" : "dc-movies",
+                    "traktId" : 3989015,
+                    "username" : "AraChn0id"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "dc-comics",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-dc-comics.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh1SCAbXw$  ",
+              "title" : "DC Comics"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "dune",
+                    "listSlug" : "dune",
+                    "traktId" : 32517134,
+                    "username" : "pjohnston1"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "dune",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-dune.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojG_lSEzg$  ",
+              "title" : "Dune"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Expendables",
+                    "listSlug" : "the-expendables",
+                    "traktId" : 32347354,
+                    "username" : "drjenkins"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "expendables",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-expendables.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoi2uLIUXg$  ",
+              "title" : "The Expendables"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Fast & Furious Universe",
+                    "listSlug" : "the-fast-furious-universe",
+                    "traktId" : 11362509,
+                    "username" : "mri8879"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "fast-and-furious",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-fast-furious.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojys6qTxA$  ",
+              "title" : "Fast & Furious"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Ghostbusters",
+                    "listSlug" : "ghostbusters",
+                    "traktId" : 21798668,
+                    "username" : "silvol"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "ghostbusters",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-ghostbusters.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogXrtsO_A$  ",
+              "title" : "Ghostbusters"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Godfather Collection",
+                    "listSlug" : "the-godfather-collection",
+                    "traktId" : 32382561,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "godfather",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-godfather.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohRBu-p8Q$  ",
+              "title" : "The Godfather"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Harry Potter Collection",
+                    "listSlug" : "harry-potter-collection",
+                    "traktId" : 32378710,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "harry-potter",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-harry-potter.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoi0Nqb90g$  ",
+              "title" : "Harry Potter"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Indiana Jones Collection",
+                    "listSlug" : "indiana-jones-collection",
+                    "traktId" : 32382610,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "indiana-jones",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-indiana-jones.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohhqfnVaw$  ",
+              "title" : "Indiana Jones"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "John Wick Collection",
+                    "listSlug" : "john-wick-collection",
+                    "traktId" : 32382577,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "john-wick",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-john-wick.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogWdksydg$  ",
+              "title" : "John Wick"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Jurassic Park Collection",
+                    "listSlug" : "jurassic-park-collection",
+                    "traktId" : 32378934,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "jurassic-park",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-jurassic-park.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohC1IB4Kw$  ",
+              "title" : "Jurassic Park"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Marvel Cinematic Universe",
+                    "listSlug" : "marvel-cinematic-universe",
+                    "traktId" : 32377421,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "marvel",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-marvel.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojbQUYT6g$  ",
+              "title" : "Marvel"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Matrix",
+                    "listSlug" : "matrix",
+                    "traktId" : 24891175,
+                    "username" : "sjmarsenal85"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "matrix",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-matrix.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkogLkzTOSQ$  ",
+              "title" : "Matrix"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Mission Impossible Collection",
+                    "listSlug" : "mission-impossible-collection",
+                    "traktId" : 32378615,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "mission-impossible",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-mission-impossible.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoh1IaXJiQ$  ",
+              "title" : "Mission Impossible"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Pirates of the Caribbean Collection",
+                    "listSlug" : "pirates-of-the-caribbean-collection",
+                    "traktId" : 32377354,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "pirates-of-the-caribbean",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-pirates-of-the-caribbean.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohSmUn_Hw$  ",
+              "title" : "Pirates of the Caribbean"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Planet of the Apes (Reboot)",
+                    "listSlug" : "planet-of-the-apes-reboot",
+                    "traktId" : 32377380,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "planet-of-the-apes",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-planet-of-the-apes.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohY3Z1CEQ$  ",
+              "title" : "Planet of the Apes"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Rambo Collection",
+                    "listSlug" : "rambo-collection",
+                    "traktId" : 33133854,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "rambo",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-rambo.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojpuaNf4Q$  ",
+              "title" : "Rambo"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Rocky Collection",
+                    "listSlug" : "rocky-collection",
+                    "traktId" : 32402568,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "rocky",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-rocky.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoigSDHGnA$  ",
+              "title" : "Rocky"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "scooby doo",
+                    "listSlug" : "scooby-doo",
+                    "traktId" : 32416411,
+                    "username" : "anj_anj_anj"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "scooby-doo",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-scooby-doo.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohzhA-mJA$  ",
+              "title" : "Scooby-Doo"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Star Trek (Theatrical Movie Releases)",
+                    "listSlug" : "star-trek-theatrical-movie-releases",
+                    "traktId" : 30613386,
+                    "username" : "arose1"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "star-trek",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-star-trek.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojWw57u1A$  ",
+              "title" : "Star Trek"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Star Wars Collection",
+                    "listSlug" : "star-wars-collection",
+                    "traktId" : 32379017,
+                    "username" : "vanbushi"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "star-wars",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-star-wars.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohkTX4Rlw$  ",
+              "title" : "Star Wars"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Hunger Games",
+                    "listSlug" : "the-hunger-games",
+                    "traktId" : 32376949,
+                    "username" : "drjenkins"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "the-hunger-games",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-the-hunger-games.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkoiqDkDl1w$  ",
+              "title" : "The Hunger Games"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Middle Earth",
+                    "listSlug" : "middle-earth",
+                    "traktId" : 32242000,
+                    "username" : "drjenkins"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "the-lord-of-the-rings",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-the-lord-of-the-rings.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkohbi60joQ$  ",
+              "title" : "The Lord of the Rings"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Transformers",
+                    "listSlug" : "transformers",
+                    "traktId" : 31815595,
+                    "username" : "drjenkins"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "transformers",
+              "imageAspect" : "poster",
+              "imageURL" : "https://urldefense.com//v3//__https:////raw.githubusercontent.com//*Yakuza2635//*fusion_app-content//*main//*folders//*posters//*collections//*collection-transformers.png__;Ly8vLy8vLw!!IBzWLUs!RtK0YlZTwgT61j6NNcGCSrjNH-Lk_aqnrTbwJ2hZUDC93iNFpcf-9xVjHTlvf9VrShMPEmrOkojD8V4-5g$  ",
+              "title" : "Transformers"
+            }
+          ]
+        }
+      },
+      "id" : "collection.BDB06908-20C1-4432-A103-DA9A10FF2BAE",
+      "title" : "Movie Collections",
+      "type" : "collection.row"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Daily Picks",
+          "listSlug" : "daily-picks",
+          "traktId" : 31897770,
+          "username" : "tvgeniekodi"
+        }
+      },
+      "id" : "trakt.EF19B376-7017-4DBC-AFDC-9286AE69401D",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Daily Picks",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Movies",
+          "listSlug" : "latest-movies",
+          "traktId" : 30828678,
+          "username" : "tvgeniekodi"
+        }
+      },
+      "id" : "trakt.F089AF15-FBC1-440D-8863-B74160232664",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Latest Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Trending Movies",
+          "listSlug" : "trending-movies",
+          "traktId" : 30828647,
+          "username" : "tvgeniekodi"
+        }
+      },
+      "id" : "trakt.D5E4C996-4781-40A7-A553-E897AC866408",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Trending Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Shows",
+          "listSlug" : "latest-shows",
+          "traktId" : 31015440,
+          "username" : "tvgeniekodi"
+        }
+      },
+      "id" : "trakt.604EA10E-D893-49AE-BEE9-1C281ACFB462",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Latest Shows",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Trending Shows",
+          "listSlug" : "trending-shows",
+          "traktId" : 30828660,
+          "username" : "tvgeniekodi"
+        }
+      },
+      "id" : "trakt.1A319F30-72A9-420E-B9C0-E4E80D32FC28",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Trending Shows",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "movie::mdblist.86934",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.46404266-E0A6-4EB1-ADCB-46ED42FF74B0",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Digital Release Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.shd",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.E2B3D156-F1E8-4F2C-B08F-20E0E13656FE",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Shudder Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "series::streaming.sta_series",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.1342ADD4-3E35-49B0-94A4-82D57311E4BD",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Starz Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "movie::streaming.sta_movie",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.6D8179FF-1550-482B-98BE-F403BDB901E5",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Starz Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "series::custom.pw_ers_netflix_catalog.series.iqi",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.C8ACD7B9-A958-483B-ACB1-0888532AF226",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "iQIYI Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.iqi",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.3438E134-462A-42CA-A94F-919A803E94DB",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "iQIYI Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8R4WjgNw$ ",
+          "catalogId" : "series::416e3b0.K-Dramas",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.3C4E0E35-8713-4CD9-BA72-992B852CE262",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "K-dramas Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8R4WjgNw$ ",
+          "catalogId" : "series::416e3b0.J-Dramas",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.97DB7545-71F6-45E7-ABA8-33A21723C9ED",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Japanese Drama Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Trending Anime Movies",
+          "listSlug" : "trending-anime-movies",
+          "traktId" : 30828755,
+          "username" : "tvgeniekodi"
+        }
+      },
+      "id" : "trakt.80EA8972-8E6D-43FF-93B7-9254E44C29C4",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Trending Anime Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Trending Anime Shows",
+          "listSlug" : "trending-anime-shows",
+          "traktId" : 30828760,
+          "username" : "tvgeniekodi"
+        }
+      },
+      "id" : "trakt.0CB86FE1-6035-49CA-94A4-CCD8D6249EA0",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Trending Anime Shows",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "anime::mal.airing",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.1A0A95A8-5DB5-4007-9E10-DF4FF9F47954",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "MAL Airing Now Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "anime::anilist.trending",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.E677600B-2EAF-474E-8087-37E002AD8B2D",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "AniList Trending Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "anime::custom.org_stremio_animecatalogs.anime.anidb_latest_ended",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.6F187BFC-D151-4A64-BF13-EFD94154DA00",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "AniDB Latest Ended Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "anime::mal.top_series",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.28C821EF-F6D7-41A2-BD1D-2D3B57443FD6",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "MAL Top Series Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "anime::mal.top_movies_anime",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.6F122AB5-43D1-4223-817A-50B5444B1CE4",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "MAL Top Movies Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiometadata.fortheweak.cloud/*stremio/*b1a41eba-78b2-4337-9026-4ae94476d362/*manifest.json__;Ly8v!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8HktwkYg$ ",
+          "catalogId" : "anime::mal.most_popular",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.72751131-C94A-4162-95F1-2F78763E0D60",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "MAL Most Popular Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8R4WjgNw$ ",
+          "catalogId" : "anime::a10e3b0.kitsu-anime-trending",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.EB9764D7-2689-4533-A923-0DAC62C4ADCD",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Kitsu Trending Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8R4WjgNw$ ",
+          "catalogId" : "anime::a10e3b0.kitsu-anime-airing",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.38801770-F5AE-41C7-91F1-72618DDDC00A",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Kitsu Top Airing Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8R4WjgNw$ ",
+          "catalogId" : "anime::a10e3b0.kitsu-anime-popular",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.A4C4B534-CF58-46A9-8D7B-C91CDF29D0B8",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Kitsu Most Popular Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8R4WjgNw$ ",
+          "catalogId" : "anime::a10e3b0.kitsu-anime-rating",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.C30C32CB-E139-49A4-9567-A6A2EF4E7F2D",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Kitsu Highest Rated Anime",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https://urldefense.com/v3/__https://aiostreams-nightly.fortheweak.cloud/*stremio/*4cab6f8e-ed4e-4e7b-b4b5-5b2ce933acae/*eyJpIjoiTVIxa1BlcUdTU2dJcERET2h3SjAxUT09IiwiZSI6InF5M05xWGRqOTNYclI4Zzl3aFZLbURCTS9PczY5Nk9tMjdmeThta3ZjRzA9IiwidCI6ImEifQ/*manifest.json__;Ly8vLw!!IBzWLUs!S4NajKtfrPlqfveFt7RboG0jWbvTx_3vfXwxSaim3Ce5Y0DkVWH9Ctb0zmyFcogvfAIrfgSmRM8R4WjgNw$ ",
+          "catalogId" : "anime::a10e3b0.kitsu-anime-list",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.39E55ECB-F1F6-40A2-9312-B146651C4D56",
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Kitsu Anime",
+      "type" : "row.classic"
+    }
+  ]
+}
